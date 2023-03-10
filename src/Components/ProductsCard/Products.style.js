@@ -27,6 +27,13 @@ export default StyleSheet.create ({
         paddingLeft:10,
         paddingBottom:10,
     },
-    
+    inStock:{
+        fontSize:13,
+        color: 'red',
+        fontWeight: 'bold',
+        paddingLeft:10,
+        paddingBottom:10,
+
+    }
 
 })
